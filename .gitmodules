@@ -1,0 +1,3 @@
+[submodule "netflix-clone"]
+	path = netflix-clone
+	url = https://github.com/ssaakkii/netflix-clone.git
